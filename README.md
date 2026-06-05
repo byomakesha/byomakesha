@@ -7,17 +7,17 @@
 
 - 🌱 I’m currently working as a **MERN Stack** developer in a Robotic Startup in India
 
-- 👨‍💻 All of my projects are available at [https://abhisheknayak.netlify.app/](https://abhisheknayak.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://byomakesha.github.io/GitHubDemo/](https://byomakesha.github.io/GitHubDemo/)
 
-- 📝 I try to solve leetcode problems regularly [https://leetcode.com/Abhishek_Nayak_/](https://leetcode.com/Abhishek_Nayak_/)
+- 📝 I try to solve leetcode problems regularly [https://byomakesha.github.io/GitHubDemo/](https://byomakesha.github.io/GitHubDemo/)
 
 - 💬 Ask me about **JavaScript, React, C++ ,Nodejs**
 
-- 📫 How to reach me **webcoder41@gmail.com**
+- 📫 How to reach me **byomakesha.pradhan@gmail.com**
 
-- 📄 Know about my experiences on LinkedIn [https://www.linkedin.com/in/abhishek41/](https://www.linkedin.com/in/abhishek41/)
+- 📄 Know about my experiences on LinkedIn [https://www.linkedin.com/in/byomakesha-pradhan-0a55a0a7/](https://www.linkedin.com/in/byomakesha-pradhan-0a55a0a7/)
 
-- ⚡ Fun fact **I teach many students on YouTube [https://www.youtube.com/channel/UCp9QFNsQ9ZuCUdVEBytP3Rg](https://www.youtube.com/channel/UCp9QFNsQ9ZuCUdVEBytP3Rg)**
+- ⚡ Fun fact **I teach many students on YouTube [https://www.youtube.com/@MoOdisha1988](https://www.youtube.com/@MoOdisha1988)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
